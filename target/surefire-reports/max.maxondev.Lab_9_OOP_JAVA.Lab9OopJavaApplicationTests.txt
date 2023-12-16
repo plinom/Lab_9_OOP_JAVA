@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: max.maxondev.Lab_9_OOP_JAVA.Lab9OopJavaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.077 s -- in max.maxondev.Lab_9_OOP_JAVA.Lab9OopJavaApplicationTests
